@@ -1,0 +1,570 @@
+{
+    "Questions": [
+        {
+            "name": "1",
+            "question": "read and choose different kind of word",
+            "audio": "no",
+            "type": "radio",
+            "answer": "B",
+            "choices": [
+                {
+                    "item": "A",
+                    "content": "two"
+                },
+                {
+                    "item": "B",
+                    "content": "too"
+                },
+                {
+                    "item": "C",
+                    "content": "ten"
+                },
+                {
+                    "item": "D",
+                    "content": "seven"
+                }
+            ],
+            "fills": []
+        },
+        {
+            "name": "2",
+            "question": "read and choose different kind of word",
+            "audio": "no",
+            "type": "radio",
+            "answer": "A",
+            "choices": [
+                {
+                    "item": "A",
+                    "content": "good"
+                },
+                {
+                    "item": "B",
+                    "content": "run"
+                },
+                {
+                    "item": "C",
+                    "content": "hop"
+                },
+                {
+                    "item": "D",
+                    "content": "swim"
+                }
+            ],
+            "fills": []
+        },
+        {
+            "name": "3",
+            "question": "read and choose different kind of word",
+            "audio": "no",
+            "type": "radio",
+            "answer": "D",
+            "choices": [
+                {
+                    "item": "A",
+                    "content": "shirt"
+                },
+                {
+                    "item": "B",
+                    "content": "sweater"
+                },
+                {
+                    "item": "C",
+                    "content": "coat"
+                },
+                {
+                    "item": "D",
+                    "content": "cold"
+                }
+            ],
+            "fills": []
+        },
+        {
+            "name": "4",
+            "question": "read and choose different kind of word",
+            "audio": "no",
+            "type": "radio",
+            "answer": "D",
+            "choices": [
+                {
+                    "item": "A",
+                    "content": "fly"
+                },
+                {
+                    "item": "B",
+                    "content": "bee"
+                },
+                {
+                    "item": "C",
+                    "content": "butterfly"
+                },
+                {
+                    "item": "D",
+                    "content": "rabbit"
+                }
+            ],
+            "fills": []
+        },
+        {
+            "name": "5",
+            "question": "read and choose different kind of word",
+            "audio": "no",
+            "type": "radio",
+            "answer": "C",
+            "choices": [
+                {
+                    "item": "A",
+                    "content": "duck"
+                },
+                {
+                    "item": "B",
+                    "content": "elephant"
+                },
+                {
+                    "item": "C",
+                    "content": "pen"
+                },
+                {
+                    "item": "D",
+                    "content": "fox"
+                }
+            ],
+            "fills": []
+        },
+        {
+            "name": "6",
+            "question": "The elephant ___ tall.",
+            "audio": "no",
+            "type": "radio",
+            "answer": "C",
+            "choices": [
+                {
+                    "item": "A",
+                    "content": "are"
+                },
+                {
+                    "item": "B",
+                    "content": "am"
+                },
+                {
+                    "item": "C",
+                    "content": "is"
+                }
+            ],
+            "fills": []
+        },
+        {
+            "name": "7",
+            "question": "Ming can ___ a plane.",
+            "audio": "no",
+            "type": "radio",
+            "answer": "A",
+            "choices": [
+                {
+                    "item": "A",
+                    "content": "hear"
+                },
+                {
+                    "item": "B",
+                    "content": "feel"
+                },
+                {
+                    "item": "C",
+                    "content": "taste"
+                }
+            ],
+            "fills": []
+        },
+        {
+            "name": "8",
+            "question": "Ming ___ hear a bird.",
+            "audio": "no",
+            "type": "radio",
+            "answer": "C",
+            "choices": [
+                {
+                    "item": "A",
+                    "content": "is"
+                },
+                {
+                    "item": "B",
+                    "content": "want to"
+                },
+                {
+                    "item": "C",
+                    "content": "can't"
+                }
+            ],
+            "fills": []
+        },
+        {
+            "name": "9",
+            "question": "What color are the rabbits? --- _______.",
+            "audio": "no",
+            "type": "radio",
+            "answer": "C",
+            "choices": [
+                {
+                    "item": "A",
+                    "content": "It's white"
+                },
+                {
+                    "item": "B",
+                    "content": "They are lovely"
+                },
+                {
+                    "item": "C",
+                    "content": "They are white"
+                }
+            ],
+            "fills": []
+        },
+        {
+            "name": "10",
+            "question": "Touch the doll. It's not rough. It's _______",
+            "audio": "no",
+            "type": "radio",
+            "answer": "C",
+            "choices": [
+                {
+                    "item": "A",
+                    "content": "soft"
+                },
+                {
+                    "item": "B",
+                    "content": "hard"
+                },
+                {
+                    "item": "C",
+                    "content": "smooth"
+                }
+            ],
+            "fills": []
+        },
+        {
+            "name": "11",
+            "question": "Which of the following belongs to animals?",
+            "audio": "no",
+            "type": "check",
+            "answer": "BC",
+            "choices": [
+                {
+                    "item": "A",
+                    "content": "flower"
+                },
+                {
+                    "item": "B",
+                    "content": "elephant"
+                },
+                {
+                    "item": "C",
+                    "content": "fox"
+                },
+                {
+                    "item": "D",
+                    "content": "tree"
+                }
+            ],
+            "fills": []
+        },
+        {
+            "name": "12",
+            "question": "Read and fill in the blanks(阅读短文，首字母填空)\n\nToday is Mother's Day. I want to give my mother a big s___. After school, I buy some carnations and m___ a Mother's Day card. I draw a p___ of \"Mum and Me\" with a lot of flowers around. Then I do some housework at home. I clean the room and wash some fruit. I fell t___ but I am happy. When my mother comes back, I say \"Have a cup of tea. I love you, Mum! Happy Mother's Day!\", I give her the flowers and the c___. She smiles and says \"How beautiful the flowers are! And the card is so nice! Thank you, Kelly! I love you, too.\" My f___ looks at us with a smile. We are very happy!",
+            "audio": "no",
+            "type": "fill",
+            "answer": "urprise ake icture ired ard ather",
+            "choices": [],
+            "fills": [
+                {
+                    "item": "1",
+                    "content": "S___"
+                },
+                {
+                    "item": "2",
+                    "content": "m___"
+                },
+                {
+                    "item": "3",
+                    "content": "p___"
+                },
+                {
+                    "item": "4",
+                    "content": "t___"
+                },
+                {
+                    "item": "5",
+                    "content": "c___"
+                },
+                {
+                    "item": "6",
+                    "content": "f___"
+                }
+            ]
+        },
+        {
+            "name": "13",
+            "question": "Look at the animals. They are ___. They are ___. They have long ___. They like eating ___. They can do many things ___ people. I like ___ all.",
+            "audio": "no",
+            "type": "fill",
+            "answer": "elephants strong noses bananas for them",
+            "choices": [],
+            "fills": [
+                {
+                    "item": "1",
+                    "content": "e___"
+                },
+                {
+                    "item": "2",
+                    "content": "s___"
+                },
+                {
+                    "item": "3",
+                    "content": "n___"
+                },
+                {
+                    "item": "4",
+                    "content": "b___"
+                },
+                {
+                    "item": "5",
+                    "content": "f___"
+                },
+                {
+                    "item": "6",
+                    "content": "t___"
+                }
+            ]
+        },
+        {
+            "name": "14",
+            "question": "It is summer. Tom is at the beach. He has ___. Look, Alice can dance. She has a beautiful ___. In winter, Eddie is cold. He has a nice ___. Girls like wearing colourful ___ in summer. We need warm coats and ___ for winter.",
+            "audio": "no",
+            "type": "fill",
+            "answer": "shorts dress sweater skirts trousers",
+            "choices": [],
+            "fills": [
+                {
+                    "item": "1",
+                    "content": "s___"
+                },
+                {
+                    "item": "2",
+                    "content": "d___"
+                },
+                {
+                    "item": "3",
+                    "content": "s___"
+                },
+                {
+                    "item": "4",
+                    "content": "s___"
+                },
+                {
+                    "item": "5",
+                    "content": "t___"
+                }
+            ]
+        },
+        {
+            "name": "15",
+            "question": "I can ___ a rope.",
+            "audio": "no",
+            "type": "radio",
+            "answer": "B",
+            "choices": [
+                {
+                    "item": "A",
+                    "content": "ride"
+                },
+                {
+                    "item": "B",
+                    "content": "skip"
+                },
+                {
+                    "item": "C",
+                    "content": "make"
+                }
+            ],
+            "fills": []
+        },
+        {
+            "name": "16",
+            "question": "Can you hear the bird? --- ____, I can't.",
+            "audio": "no",
+            "type": "radio",
+            "answer": "C",
+            "choices": [
+                {
+                    "item": "A",
+                    "content": "Yes"
+                },
+                {
+                    "item": "B",
+                    "content": "no"
+                },
+                {
+                    "item": "C",
+                    "content": "No"
+                }
+            ],
+            "fills": []
+        },
+        {
+            "name": "17",
+            "question": "____ the flowers. It's nice and sweet.",
+            "audio": "no",
+            "type": "radio",
+            "answer": "A",
+            "choices": [
+                {
+                    "item": "A",
+                    "content": "Smell"
+                },
+                {
+                    "item": "B",
+                    "content": "Taste"
+                },
+                {
+                    "item": "C",
+                    "content": "Eat"
+                }
+            ],
+            "fills": []
+        },
+        {
+            "name": "18",
+            "question": "read and choose different kind of word",
+            "audio": "no",
+            "type": "radio",
+            "answer": "C",
+            "choices": [
+                {
+                    "item": "A",
+                    "content": "purple"
+                },
+                {
+                    "item": "B",
+                    "content": "orange"
+                },
+                {
+                    "item": "C",
+                    "content": "apple"
+                },
+                {
+                    "item": "D",
+                    "content": "brown"
+                }
+            ],
+            "fills": []
+        },
+        {
+            "name": "19",
+            "question": "Look ___ the animal, please.",
+            "audio": "no",
+            "type": "radio",
+            "answer": "A",
+            "choices": [
+                {
+                    "item": "A",
+                    "content": "at"
+                },
+                {
+                    "item": "B",
+                    "content": "for"
+                },
+                {
+                    "item": "C",
+                    "content": "to"
+                }
+            ],
+            "fills": []
+        },
+        {
+            "name": "20",
+            "question": "What can you see in the zoo?",
+            "audio": "no",
+            "type": "radio",
+            "answer": "C",
+            "choices": [
+                {
+                    "item": "A",
+                    "content": "Slide"
+                },
+                {
+                    "item": "B",
+                    "content": "Tom"
+                },
+                {
+                    "item": "C",
+                    "content": "A tiger"
+                }
+            ],
+            "fills": []
+        },
+        {
+            "name": "21",
+            "question": "___ is She? --- She is five.",
+            "audio": "no",
+            "type": "radio",
+            "answer": "D",
+            "choices": [
+                {
+                    "item": "A",
+                    "content": "How"
+                },
+                {
+                    "item": "B",
+                    "content": "What colour"
+                },
+                {
+                    "item": "C",
+                    "content": "Who"
+                },
+                {
+                    "item": "D",
+                    "content": "How old"
+                }
+            ],
+            "fills": []
+        },
+        {
+            "name": "22",
+            "question": "How is your sister? --- _________________",
+            "audio": "no",
+            "type": "radio",
+            "answer": "A",
+            "choices": [
+                {
+                    "item": "A",
+                    "content": "Fine."
+                },
+                {
+                    "item": "B",
+                    "content": "It's in the bag."
+                },
+                {
+                    "item": "C",
+                    "content": "It's white and blue."
+                },
+                {
+                    "item": "D",
+                    "content": "It's a book."
+                }
+            ],
+            "fills": []
+        },
+        {
+            "name": "23",
+            "question": "___ talking. The teacher is coming.",
+            "audio": "yes",
+            "type": "fill",
+            "answer": "Stop",
+            "choices": [],
+            "fills": [
+                {
+                    "item": "1",
+                    "content": "___"
+                }
+            ]
+        }
+    ]
+}

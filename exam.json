@@ -1,0 +1,248 @@
+{
+    "Questions": [
+        {
+            "name": "1",
+            "question": "read and choose different kind of word",
+            "type": "radio",
+            "answer": "B",
+            "choices": [
+                {
+                    "item": "A",
+                    "content": "two"
+                },
+                {
+                    "item": "B",
+                    "content": "too"
+                },
+                {
+                    "item": "C",
+                    "content": "ten"
+                },
+                {
+                    "item": "D",
+                    "content": "seven"
+                }
+            ]
+        },
+        {
+            "name": "2",
+            "question": "read and choose different kind of word",
+            "type": "radio",
+            "answer": "A",
+            "choices": [
+                {
+                    "item": "A",
+                    "content": "good"
+                },
+                {
+                    "item": "B",
+                    "content": "run"
+                },
+                {
+                    "item": "C",
+                    "content": "hop"
+                },
+                {
+                    "item": "D",
+                    "content": "swim"
+                }
+            ]
+        },
+        {
+            "name": "3",
+            "question": "read and choose different kind of word",
+            "type": "radio",
+            "answer": "D",
+            "choices": [
+                {
+                    "item": "A",
+                    "content": "shirt"
+                },
+                {
+                    "item": "B",
+                    "content": "sweater"
+                },
+                {
+                    "item": "C",
+                    "content": "coat"
+                },
+                {
+                    "item": "D",
+                    "content": "cold"
+                }
+            ]
+        },
+        {
+            "name": "4",
+            "question": "read and choose different kind of word",
+            "type": "radio",
+            "answer": "D",
+            "choices": [
+                {
+                    "item": "A",
+                    "content": "fly"
+                },
+                {
+                    "item": "B",
+                    "content": "bee"
+                },
+                {
+                    "item": "C",
+                    "content": "butterfly"
+                },
+                {
+                    "item": "D",
+                    "content": "rabbit"
+                }
+            ]
+        },
+        {
+            "name": "5",
+            "question": "read and choose different kind of word",
+            "type": "radio",
+            "answer": "C",
+            "choices": [
+                {
+                    "item": "A",
+                    "content": "duck"
+                },
+                {
+                    "item": "B",
+                    "content": "elephant"
+                },
+                {
+                    "item": "C",
+                    "content": "pen"
+                },
+                {
+                    "item": "D",
+                    "content": "fox"
+                }
+            ]
+        },
+        {
+            "name": "6",
+            "question": "The elephant ___ tall.",
+            "type": "radio",
+            "answer": "C",
+            "choices": [
+                {
+                    "item": "A",
+                    "content": "are"
+                },
+                {
+                    "item": "B",
+                    "content": "am"
+                },
+                {
+                    "item": "C",
+                    "content": "is"
+                }
+            ]
+        },
+        {
+            "name": "7",
+            "question": "Ming can ___ a plane.",
+            "type": "radio",
+            "answer": "A",
+            "choices": [
+                {
+                    "item": "A",
+                    "content": "hear"
+                },
+                {
+                    "item": "B",
+                    "content": "feel"
+                },
+                {
+                    "item": "C",
+                    "content": "taste"
+                }
+            ]
+        },
+        {
+            "name": "8",
+            "question": "Ming ___ hear a bird.",
+            "type": "radio",
+            "answer": "C",
+            "choices": [
+                {
+                    "item": "A",
+                    "content": "is"
+                },
+                {
+                    "item": "B",
+                    "content": "want to"
+                },
+                {
+                    "item": "C",
+                    "content": "can't"
+                }
+            ]
+        },
+        {
+            "name": "9",
+            "question": "What color are the rabbits? --- _______.",
+            "type": "radio",
+            "answer": "C",
+            "choices": [
+                {
+                    "item": "A",
+                    "content": "It's white"
+                },
+                {
+                    "item": "B",
+                    "content": "They are lovely"
+                },
+                {
+                    "item": "C",
+                    "content": "They are white"
+                }
+            ]
+        },
+        {
+            "name": "10",
+            "question": "Touch the doll. It's not rough. It's _______",
+            "type": "radio",
+            "answer": "C",
+            "choices": [
+                {
+                    "item": "A",
+                    "content": "soft"
+                },
+                {
+                    "item": "B",
+                    "content": "hard"
+                },
+                {
+                    "item": "C",
+                    "content": "smooth"
+                }
+            ]
+        },
+        {
+            "name": "11",
+            "question": "Which of the following belongs to animals?",
+            "type": "check",
+            "answer": "BC",
+            "choices": [
+                {
+                    "item": "A",
+                    "content": "flower"
+                },
+                {
+                    "item": "B",
+                    "content": "elephant"
+                },
+                {
+                    "item": "C",
+                    "content": "fox"
+                },
+                {
+                    "item": "D",
+                    "content": "tree"
+                }
+            ]
+        }
+    ]
+}
