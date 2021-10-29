@@ -838,24 +838,25 @@ class WindowShell:
                         for score_record in score_list:
                             level_str = score_record[3]
                             level_dict[level_str] += 1
-                        style = Style(font_family='Yahei')
+                        # style = Style(font_family='Yahei')
+                        style = Style(font_family='SimHei')
                         course_pie_chart = pygal.Pie(style=style, value_formatter=lambda x: "{}".format(x))
                         course_pie_chart.title = '科目成绩统计'
                         for level_key, level_value in level_dict.items():
                             course_pie_chart.add(level_key, level_value)
-                        pie_file = self.file_dir / 'score_level.png'
-
+                        pie_file = str(self.file_dir / 'score_level.png')
                         course_pie_chart.render_to_png(pie_file)
                         course_level_thread = self.start_image_thread(pie_file, (550, 400),
                                                                       stat_window, self.image_frame)
                         self.image_threads.append(course_level_thread)
                     else:
-                        style = Style(font_family='Yahei')
+                        # style = Style(font_family='Yahei')
+                        style = Style(font_family='SimHei')
                         course_bar_chart = pygal.Bar(style=style)
                         course_bar_chart.title = '总成绩分数统计'
                         for user, score in totals_dict.items():
                             course_bar_chart.add(user, score)
-                        bar_file = self.file_dir / 'score_total.png'
+                        bar_file = str(self.file_dir / 'score_total.png')
                         course_bar_chart.render_to_png(bar_file)
                         course_level_thread = self.start_image_thread(bar_file, (550, 400),
                                                                       stat_window, self.image_frame)
