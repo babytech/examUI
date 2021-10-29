@@ -1614,6 +1614,7 @@ class WindowShell:
                 self.wrong_choices_str.append(self.choices_str[idx])
                 self.wrong_choices_list.append(self.choices_list[idx])
         self.params = [self.wrong_questions, self.questions_name, self.questions_dict, self.questions_type,
+                       self.questions_audio, self.audios_dict,
                        self.answers_right, self.wrong_choices_str, self.wrong_choices_list, self.wrong_fills_dict]
         self.questions = self.wrong_questions
         self.choices_str = self.wrong_choices_str
