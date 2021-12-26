@@ -50,3 +50,7 @@ The educational application for coach kids
 
 - 帮助信息:
   -
+
+- 改进计划:
+  -
+  **将UI界面改造为支持tkinter, remi的Web版本两种形式**
